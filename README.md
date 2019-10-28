@@ -4,7 +4,11 @@ After a successful career in teaching Mathematics, I was keen to embark on a new
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+JavaScript, React, jQuery, Jasmine
+Ruby, Rails, RSpec, Sinatra
+Travis CI, Heroku, Git, Html, Bootstrap, CSS
+Agile and XP values
+Strong TDD and Debugging process
 
 #### This Skill
 
@@ -23,33 +27,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2019 to November 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cardiff University (Sept 1999 to July 2002)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BScEcon Economics and Management Studies
+- 2.1
+- Captain of University Hockey Team, played in European Hockey Club Championships 2002
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Other Qualifications
+- Postgraduate Certificate in Education Secondary Mathematics (Roehampton University 2006-7)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Hampton School** (April 2013 to August 2018)    
+*Head of Mathematics for KS2*  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+-Ability to motivate young people with well-prepared and engaging lessons and presentations.
+-Educated students from ages 9 - 11 focusing on entrance exams and scholarships for the country's elite schools.
+-Head of Department, providing mentorship, training, performance reviews and support for 8 other teachers.
+-An expert understanding of how to learn as well as how to communicate my understanding with others.
+-Empathy towards the children I was educating and the colleagues I was developing as maths teachers.
+
+**Hall School Wimbledon** (January 2010 to April 2013)   
+*Mathematics and Games Teacher*  
+- Helping GCSE students develop their problem solving skills and apply critical analysis
+- Form Tutor responsibilities including provision of support, councilling and guidance to GCSE students.
+
+**Tennis New Zealand** (August 2008 to September 2009)   
+*Tennis Development Officer*  
+- Helping to develop tennis programs in small communities across the South Island of New Zealand.
+- Building relationships with community leaders, coaching and mentoring volunteers to help implement tennis programs in local clubs.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Hockey, Football, Tennis, Golf and Snowboarding.

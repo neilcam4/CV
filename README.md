@@ -1,38 +1,29 @@
 ## Neil Campbell
 
-After a successful career in teaching Mathematics, I was keen to embark on a new challenge and take my career forward. I had been learning how to program independently for the past two years and developed my own web app to support my teaching (www.snowytopmaths.co.uk). In July 2019 I decided to turn my hobby into my new career and began the software engineering course at Makers Academy. My initial excitement for turning my ideas into fuition has continued to grow as I have developed my skills further and learnt the industry's best practices. I am excited to launch myself into a new career in tech, to continue improving as a developer and utilise my management and people skills from my former experience. 
+After a successful career in teaching Mathematics, I am now excited to apply my passion for technology as a software developer. For the past two years I had been learning how to program independently and turn my own ideas into a number of full stack apps. In July 2019, I decided to pursue my passion further and began a 16-week software engineering course at Makers Academy in order to develop my skills further and learn the industry's best practices. I am now eager to begin my first job as a professional developer, to learn as much as I can and utilise my management and people skills.
 
 ## Skills
 
-JavaScript, React, jQuery, Jasmine
-Ruby, Rails, RSpec, Sinatra
-Travis CI, Heroku, Git, Html, Bootstrap, CSS
-Agile and XP values
-Strong TDD and Debugging process
+•	JavaScript, React, Jasmine, Node.js, jQuery
+•	Ruby, Rails, RSpec, Sinatra, Capybara
+•	Travis CI, Heroku, Version Control (Github)
+•	Html, Bootstrap, CSS
+•	XP values, Agile Processes, Strong TDD and Debugging
 
-#### This Skill
+#### Ability to Build Full Stack Apps in a variety of technologies
 
-- Experience
-- Achievements
-- Evidence
+During the last year of my teaching career, I realised there was a lack of effective ways for my students to revise. They needed a way of reviewing the methods we had studied in class that was tailored exactly to our curriculum. I decided to learn how to develop a web application that allowed them to watch videos, answer questions based on the videos and track their progress and understanding of each topic. I built the front-end in Javascript, HTML and Bootstrap/CSS and the backend in node.js with a MongoDB database and deployed the site on Digital Ocean. 
+	It was a thrill to bring my ideas into fruition with my first fully deployed app at www.snowytopmaths.co.uk. Since completing my course at Makers Academy I have learnt a great deal about how I would build my next app with a tighter MVC structure, a vastly improved code quality and most importantly, how to TDD effectively.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (July 2019 to November 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, ReactJS
+- RSpec, Jasmine, Jest, Capybara, Sinatra
 
 #### Cardiff University (Sept 1999 to July 2002)
 
@@ -59,10 +50,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Helping GCSE students develop their problem solving skills and apply critical analysis
 - Form Tutor responsibilities including provision of support, councilling and guidance to GCSE students.
 
-**Tennis New Zealand** (August 2008 to September 2009)   
-*Tennis Development Officer*  
+**Tennis New Zealand** (August 2008 to October 2009)   
+*Tennis Development Officer/ Tennis Instructor*  
 - Helping to develop tennis programs in small communities across the South Island of New Zealand.
 - Building relationships with community leaders, coaching and mentoring volunteers to help implement tennis programs in local clubs.
+
+**IG Index**, London (March 2006 – July 2006)
+*Trader Support*
+•	Working on the Trading Floor, supporting Traders with Statistics and Customer Account Issues.
+
+**Syngenta Agrochemicals** (August 2002 – January 2006 Basel, Switzerland & Sydney, Australia)
+*Supply Chain Auditor*
+•	Ensured Supply Chain process was effective and followed
+•	Looked for improvements in process in terms of safety and transport options
 
 ## Hobbies
 

@@ -5,10 +5,15 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 ## Skills
 
 •	JavaScript, React, Jasmine, Node.js, jQuery
+
 •	Ruby, Rails, RSpec, Sinatra, Capybara
+
 •	Travis CI, Heroku, Version Control (Github)
+
 •	Html, Bootstrap, CSS
+
 •	XP values, Agile Processes, Strong TDD and Debugging
+
 
 #### Ability to Build Full Stack Apps in a variety of technologies
 

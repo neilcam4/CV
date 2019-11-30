@@ -55,10 +55,10 @@ During the last year of my teaching career, I realised there was a lack of effec
 - Helping GCSE students develop their problem solving skills and apply critical analysis
 - Form Tutor responsibilities including provision of support, counselling and guidance to GCSE students.
 
-**Tennis New Zealand** (August 2008 to October 2009)   
-*Tennis Development Officer/ Tennis Instructor*  
-- Helping to develop tennis programs in small communities across the South Island of New Zealand.
-- Building relationships with community leaders, coaching and mentoring volunteers to help implement tennis programs in local clubs.
+**Maths Teacher** (September 2007 to December 2009)   
+*Variety of senior schools as teaching practice to gain my full Qualified Teacher Status*  
+- Helping GCSE students develop their problem solving skills and apply critical analysis
+- Completed all assessments required to become a fully qualified teacher
 
 **IG Index**, London (March 2006 – July 2006)
 *Trader Support*

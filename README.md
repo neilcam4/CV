@@ -32,7 +32,7 @@ During the last year of my teaching career, I realised there was a lack of effec
 
 #### Cardiff University (Sept 1999 to July 2002)
 
-- BScEcon Economics and Management Studies
+- BSc Economics and Management Studies
 - 2.1
 - Captain of University Hockey Team, played in European Hockey Club Championships 2002
 
@@ -53,7 +53,7 @@ During the last year of my teaching career, I realised there was a lack of effec
 **Hall School Wimbledon** (January 2010 to April 2013)   
 *Mathematics and Games Teacher*  
 - Helping GCSE students develop their problem solving skills and apply critical analysis
-- Form Tutor responsibilities including provision of support, councilling and guidance to GCSE students.
+- Form Tutor responsibilities including provision of support, counselling and guidance to GCSE students.
 
 **Tennis New Zealand** (August 2008 to October 2009)   
 *Tennis Development Officer/ Tennis Instructor*  

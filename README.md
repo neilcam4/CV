@@ -1,6 +1,6 @@
 ## Neil Campbell
 
-After a successful career in teaching Mathematics, I am now excited to apply my passion for technology as a software developer. For the past two years I had been learning how to program independently and turn my own ideas into a number of full stack apps. In July 2019, I decided to pursue my passion further and began a 16-week software engineering course at Makers Academy in order to develop my skills further and learn the industry's best practices. I am now eager to begin my first job as a professional developer, to learn as much as I can and utilise my management and people skills.
+After a successful career in teaching Mathematics, I am now excited to apply my passion for technology as a software developer. For the past two years I had been learning how to program independently and developed my own full-stack app at www.snowytopmaths.co.uk. In July 2019, I decided to pursue my passion further and began a 16-week software engineering course at Makers Academy in order to develop my skills further and learn the industry's best practices. I am now eager to begin my first job as a professional developer, to learn as much as I can and utilise my management and people skills.
 
 ## Skills
 

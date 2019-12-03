@@ -6,7 +6,7 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 
 ## Projects
 
-•	Maths Quiz App [Github Repo]() [Deployed](www.snowytopmaths.co.uk) Mongoose/Express/Node/JS
+•	Maths Quiz App [Github Repo](https://github.com/neilcam4/snowy_top_maths) Mongoose/Express/Node/JS [Deployed](www.snowytopmaths.co.uk)
 
 •	Tennis Players Hall of Fame [Github Repo]() CRUD App Mongoose/Express/Node/JS
 

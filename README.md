@@ -12,7 +12,7 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 
 •	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap
 
-•	Weather API and Thermostat [Github Repo]() 
+•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) [Deployed]()
 
 
 

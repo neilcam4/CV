@@ -1,5 +1,6 @@
 ## Neil Campbell
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) |
+### Full Stack Developer
+[Projects](#Projects) | [Skills](#Skills) | [Full Stack Apps](#Full-Stack-Apps) [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies)
 
 After a successful career in teaching Mathematics, I am now excited to apply my passion for technology as a software developer. For the past two years I had been learning how to program independently and developed my own full-stack app at www.snowytopmaths.co.uk. In July 2019, I decided to pursue my passion further and began a 16-week software engineering course at Makers Academy in order to develop my skills further and learn the industry's best practices. I am now eager to begin my first job as a professional developer, to learn as much as I can and utilise my management and people skills.
 
@@ -16,7 +17,7 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 •	XP values, Agile Processes, Strong TDD and Debugging
 
 
-#### Ability to Build Full Stack Apps in a variety of technologies
+#### Full Stack Apps
 
 During the last year of my teaching career, I realised there was a lack of effective ways for my students to revise. They needed a way of reviewing the methods we had studied in class that was tailored exactly to our curriculum. I decided to learn how to develop a web application that allowed them to watch videos, answer questions based on the videos and track their progress and understanding of each topic. I built the front-end in Javascript, HTML and Bootstrap/CSS and the backend in node.js with a MongoDB database and deployed the site on Digital Ocean. 
 	It was a thrill to bring my ideas into fruition with my first fully deployed app at www.snowytopmaths.co.uk. Since completing my course at Makers Academy I have learnt a great deal about how I would build my next app with a tighter MVC structure, a vastly improved code quality and most importantly, how to TDD effectively.

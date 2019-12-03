@@ -6,13 +6,13 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 
 ## Projects
 
-•	Maths Quiz App [Github Repo](https://github.com/neilcam4/snowy_top_maths) Mongoose/Express/Node/JS [Deployed](www.snowytopmaths.co.uk)
+•	Maths Quiz App [Github Repo](https://github.com/neilcam4/snowy_top_maths) Mongoose/Express/Node/JS [Deployed Here](www.snowytopmaths.co.uk)
 
-•	Tennis Players Hall of Fame [Github Repo]() CRUD App Mongoose/Express/Node/JS
+•	Tennis Players Hall of Fame [Github Repo]() CRUD App Mongoose/Express/Node/JS [Deployed Here]()
 
-•	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap
+•	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap [Deployed Here]()
 
-•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) [Deployed]()
+•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) [Deployed Here]()
 
 
 

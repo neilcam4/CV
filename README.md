@@ -10,10 +10,11 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 
 •	Tennis Players Hall of Fame [Github Repo]() CRUD App Mongoose/Express/Node/JS [Deployed Here]()
 
-•	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap [Deployed Here]()
+•	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap [Deployed Here](http://infinite-waters-48339.herokuapp.com/)
 
-•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) [Deployed Here]()
+•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) Fetch API/JS/HTML/CSS/TDD [Deployed Here](http://pure-meadow-00554.herokuapp.com/)
 
+•	TDD:  [Github Repo](https://github.com/neilcam4/thermostat-new)JS/TDD 
 
 
 ## Skills

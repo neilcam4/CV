@@ -1,8 +1,20 @@
 ## Neil Campbell
 ### Full Stack Developer
-[Projects](#Projects) | [Skills](#Skills) | [Full Stack Apps](#Full-Stack-Apps) [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies)
+[Projects](#Projects) | [Skills](#Skills) | [Full Stack Apps](#Full-Stack-Apps) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies)
 
 After a successful career in teaching Mathematics, I am now excited to apply my passion for technology as a software developer. For the past two years I had been learning how to program independently and developed my own full-stack app at www.snowytopmaths.co.uk. In July 2019, I decided to pursue my passion further and began a 16-week software engineering course at Makers Academy in order to develop my skills further and learn the industry's best practices. I am now eager to begin my first job as a professional developer, to learn as much as I can and utilise my management and people skills.
+
+## Projects
+
+•	Maths Quiz App [Github Repo]() [Deployed](www.snowytopmaths.co.uk) Mongoose/Express/Node/JS
+
+•	Tennis Players Hall of Fame [Github Repo]() CRUD App Mongoose/Express/Node/JS
+
+•	Borrowing App [Github Repo]() React/HTML/CSS/Bootstrap
+
+•	Pinned Repositories [Github Repo]() 
+
+
 
 ## Skills
 

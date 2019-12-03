@@ -12,9 +12,9 @@ After a successful career in teaching Mathematics, I am now excited to apply my 
 
 •	Borrowing App [Github Repo](https://github.com/neilcam4/ConsumeLess-frontend) React/HTML/CSS/Bootstrap [Deployed Here](http://infinite-waters-48339.herokuapp.com/)
 
-•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) Fetch API/JS/HTML/CSS/TDD [Deployed Here](http://pure-meadow-00554.herokuapp.com/)
+•	Weather API and Thermostat [Github Repo](https://github.com/neilcam4/thermostat-new) Fetch API/JavaScript/HTML/CSS/TDD [Deployed Here](http://pure-meadow-00554.herokuapp.com/)
 
-•	TDD:  [Github Repo](https://github.com/neilcam4/thermostat-new)JS/TDD 
+•	TDD:  [Github Repo](https://github.com/neilcam4/TDD-RomanNumerals) JavaScript/TDD 
 
 
 ## Skills
